@@ -10,4 +10,5 @@ This project is design files for [Recover](http://recover.team) Application. Wor
 
 ## Our Project is?
 
+![](http://recover.team/assets/images/pic01.jpg)
 We are individual application development team started from KAIST IP-CEO Program. Also, We are sharing our project in our GitHub.
