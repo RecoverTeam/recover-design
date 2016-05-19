@@ -1,5 +1,7 @@
 # Design of Recover Project
 
+![Whole Screens](https://raw.githubusercontent.com/RecoverTeam/recover-design/master/out/Whole%20Screens.png)
+
 This project is design files for [Recover](http://recover.team) Application. Worked on Sketch, Designed by [Haze Lee](http://github.com/Hazealign).
 
 ## License
